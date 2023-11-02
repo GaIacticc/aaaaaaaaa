@@ -53,8 +53,8 @@
     --ServerPills: var(--Primary);
     --ServerFoldersColor: var(--Primary);
     /* ROUNDING */
-    --Rounding: 15px;
-    --StatusRounding: 4.5;
+    --Rounding: 30px;
+    --StatusRounding: 30;
     --AppName: "DISCORD";
     --Watermark: "WizardUI";
     /* RGB ADDON */
